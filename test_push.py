@@ -1,5 +1,4 @@
 # Add imports for later use
 
-def test() {
+def test():
     print("Hello testing")
-}
